@@ -21,7 +21,7 @@ and **Matplotlib/Seaborn** for plotting. The dataset used is the **Iris dataset*
 
 ## 🚀 How to Run
 1. Clone the repository:
-   git clone https://github.com/yourusername/data-analysis-assignment.git
+   git clone https://github.com/Mntsnt/data-analysis-assignment.git
    cd data-analysis-assignment
 
 2. Open the notebook:
